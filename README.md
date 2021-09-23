@@ -123,10 +123,10 @@
 <p align="left">
 
 <p align="center">
-<a href="https://www.linkedin.com/in/md-shrabon-456b45199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmrayat" height="30" width="40" /></a>
-<a href="https://www.facebook.com/saifuddin.shrabon.338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmrayat" height="30" width="40" /></a>
-<a href="https://instagram.com/shrabon677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asm.rayat" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saif0606" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="raybot" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-shrabon-456b45199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmrayat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/saifuddin.shrabon.338/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmrayat" height="30" width="40" /></a>
+<a href="https://instagram.com/shrabon677" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asm.rayat" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/saif0606" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="raybot" height="30" width="40" /></a>
 </p>
 
 </p>
