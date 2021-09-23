@@ -12,7 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/saif-uddin-shrabon)
 
-- 📫 My Email **shrabon06065@gmail.com** Skills: C++/ JS / HTML / CSS / BOOTSTRAP 
+- 📫 My Email **shrabon06065@gmail.com** 
+
+- Skills: C++/ JS / HTML / CSS / BOOTSTRAP 
 
 - 🌱 I’m currently learning **JS / Java / Android**
 
