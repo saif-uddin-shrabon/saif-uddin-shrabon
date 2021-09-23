@@ -1,24 +1,34 @@
-<h1 align="center">Hi 👋, I'm Saif</h1>
-<h3 align="center">Programmer in a learnig stage</h3>
+### Hi there 👋, Hey, I'm Saif
+#### learn to code and broke the hidden wall
+![learn to code and broke the hidden wall](https://github.com/saif-uddin-shrabon/saif-uddin-shrabon/blob/main/20W28-BLOG-Banner-SecretCommit.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-uddin-shrabon&label=Profile%20views&color=0e75b6&style=flat" alt="saif-uddin-shrabon" /> </p>
+Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer . Knock me: https://www.facebook.com/saifuddin.shrabon.338/
 
-- 🔭 I’m currently working on **Web Development**
+Skills: C++/ Java / BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning **Android , Java, JavaScript**
+🌱 I’m currently learning JS, Java, Android
 
-- 📫 How to reach me **shrabon06065@gmail.com**
+👨‍💻 All of my projects are available at https://github.com/saif-uddin-shrabon
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shrabon-456b45199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shrabon-456b45199/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/saifuddin.shrabon.338/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/saifuddin.shrabon.338/" height="30" width="40" /></a>
-</p>
+💬 Ask me about HTML5, CSS3, JS, Bootstrap
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+📫 How to reach me shrabon06065@gmail.com
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saif-uddin-shrabon&show_icons=true&locale=en&layout=compact" alt="saif-uddin-shrabon" /></p>
+Skills:  JS / HTML / CSS / C++ / Java
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saif-uddin-shrabon&" alt="saif-uddin-shrabon" /></p>
+- 🔭 I’m currently working on Android and Web Development 
+- 🌱 I’m currently learning Android / Js 
+- 📫 How to reach me: shrabon06065@gmail.com 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saif-uddin-shrabon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-shrabon-456b45199//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/saifuddin.shrabon.338/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-uddin-shrabon)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saif-uddin-shrabon&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saif-uddin-shrabon)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saif-uddin-shrabon)  
+
+![Profile views](https://gpvc.arturio.dev/saif-uddin-shrabon)  
