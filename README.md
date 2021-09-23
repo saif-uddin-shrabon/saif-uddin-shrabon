@@ -1,8 +1,8 @@
-![I am saif-uddin-shrabon](<a href="#"><img
+<a href="#"><img
     width="100%"
     height="auto"
     src="https://github.com/saif-uddin-shrabon/saif-uddin-shrabon/blob/main/giphy%20(1).gif"
-    height="175px" /></a>)
+    height="175px" /></a>
 
 <h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">Learn to code and Broke the hidden wall</h3>
