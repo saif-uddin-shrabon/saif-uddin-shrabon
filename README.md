@@ -1,21 +1,26 @@
-![I am saif-uddin-shrabon](<a href="#"
-  ><img
+![I am saif-uddin-shrabon](<a href="#"><img
     width="100%"
     height="auto"
     src="https://github.com/saif-uddin-shrabon/saif-uddin-shrabon/blob/main/giphy%20(1).gif"
-    height="175px" /></a
->)
+    height="175px" /></a>)
 
 <h1 align="center">Hi 👋, I'm Saif</h1>
 <h3 align="center">Learn to code and Broke the hidden wall</h3>
 
-## 🙋‍♂️ About Me - 🌱 I’m currently learning **JavaScript** - 👨‍💻 All of my
-projects are available at [Repositories](https://github.com/saif-uddin-shrabon)
-- 📫 My Email **shrabon06065@gmail.com** Skills: C++/ JS / HTML / CSS /
-BOOTSTRAP - 🌱 I’m currently learning **JS / Java / Android** - 👨‍💻 All of my
-projects are available at [https://github.com/saif-uddin-shrabon) - 💬 Ask me
-about **HTML5, CSS3, JS, Bootstrap** - 📫 How to reach me
-**shrabon06065@gmail.com**
+## 🙋‍♂️ About Me 
+-🌱 I’m currently learning **JavaScript** 
+
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/saif-uddin-shrabon)
+
+- 📫 My Email **shrabon06065@gmail.com** Skills: C++/ JS / HTML / CSS / BOOTSTRAP 
+
+- 🌱 I’m currently learning **JS / Java / Android**
+
+- 👨‍💻 All of my projects are available at [https://github.com/saif-uddin-shrabon) 
+
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap** 
+
+- 📫 How to reach me **shrabon06065@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +32,7 @@ about **HTML5, CSS3, JS, Bootstrap** - 📫 How to reach me
       height="30"
       width="40"
   /></a>
+</p>
 
   <a href="https://www.linkedin.com/in/md-shrabon-456b45199/" target="blank"
     ><img
@@ -137,11 +143,7 @@ about **HTML5, CSS3, JS, Bootstrap** - 📫 How to reach me
 <br />
 <br />
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"
-  ><img
-    alt="Subham Raoniar's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=saif-uddin-shrabon&theme=react-dark"
-/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=saif-uddin-shrabon&theme=react-dark"/></a>
 
 <br />
 <br />
@@ -157,3 +159,5 @@ about **HTML5, CSS3, JS, Bootstrap** - 📫 How to reach me
       alt="GitHub Badge"
   /></a>
 </p>
+
+
