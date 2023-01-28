@@ -14,9 +14,9 @@
 
 - 📫 My Email **shrabon06065@gmail.com** 
 
-- Skills: C++/ JS / HTML / CSS / BOOTSTRAP 
+- Skills: C++/ JS / HTML / CSS / BOOTSTRAP / Java / Android
 
-- 🌱 I’m currently learning **JS / Java / Android**
+- 🌱 I’m currently learning **JS / Kotlin / PHP / API **
 
 - 👨‍💻 All of my projects are available at [https://github.com/saif-uddin-shrabon) 
 
